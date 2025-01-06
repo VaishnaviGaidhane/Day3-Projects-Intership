@@ -15,7 +15,7 @@ pipeline{
         }
         stage('Test'){
             steps{
-                bat 'Python 3.13 -m unittest discover -s ./ -p "test_*.py"'
+                bat 'Python3 -m unittest discover -s ./ -p "test_*.py"'
             }
         }
 
