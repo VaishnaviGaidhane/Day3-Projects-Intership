@@ -15,7 +15,7 @@ pipeline{
         }
         stage('Test'){
             steps{
-                sh 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.13\Python 3.13 (64-bit) -m unittest discover -s ./ -p "test_*.py"'
+                sh 'python -m unittest discover -s ./ -p "test_*.py"'
             }
         }
 
