@@ -1,3 +1,5 @@
+Q. write a reflection on how ci can improve the software ddvelopment process.
+
 Continuous Integration (CI) is a way of working in software development where developers frequently combine their work into a shared project and use automated tools to check if everything is working correctly. It helps in many ways:
 
 1. Catching Problems Early
