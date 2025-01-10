@@ -1,1 +1,1 @@
-this project contains git git hub assignment day 3 and day4.
+this project contains jenkins assignment.
